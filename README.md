@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Egabbard12/Egabbard12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently working on a study app for Medical School students with ADHD<br>👯 I’m looking to collaborate on interesting projects that will help expand my skill set<br>🤝 I’m looking for help with getting my first Software Engineering position<br>🌱 I’m currently learning React and incorporating AI into my workflow<br>💬 Ask me about my past in the EMS field<br>⚡ Fun fact I first got into programming through building computers and gaming
 
@@ -24,4 +19,4 @@
 [![](https://visitcount.itsvg.in/api?id=Egabbard12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
